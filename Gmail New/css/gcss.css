@@ -1,0 +1,66 @@
+html, body {
+    margin:0px;
+    padding:0px;
+    border:0px;
+    left:0px;
+    top: 0px;
+    background-color:white;
+    
+    
+}
+p {
+    font-size: small;
+    text-align: center;
+    color:white;
+    
+}
+.fa-bars {
+	position: absolute;
+	padding-left:30px;
+	top :20px;
+	font-size:20px;
+	
+}
+#img-logo {
+	position: absolute;
+	padding-left:50px;
+	width:80px;
+	height:30px;
+	top:14px;
+}
+
+.mail {
+	margin-top: 50px;
+	border-bottom: 2px solid lightgrey;`
+}
+.compose {
+	margin-top:10px;
+	padding-left: 8px;
+}
+#compose-image {
+	position:absolute;
+	padding-left: 18px;
+	width: 40px;
+	height: 35px;
+	top: 92px;
+}
+.button {
+	border-radius:30px;
+	width: 150px;
+	height: 60px;
+	font-size: 15px;
+	background-color:white;
+	border-color: #D3D3D3;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.list {
+	width: 300px;
+	padding-left: 40px;
+	margin-top:20px;
+	font-size: 18px;
+	border-bottom: 2px solid lightgrey;`
+	border-width: 35%;	
+}
