@@ -1,0 +1,140 @@
+html, body {
+    margin:0px;
+    padding:0px;
+    border:0px;
+    left:0px;
+    top: 0px;
+    background-color:white;  
+}
+p {
+    font-size: small;
+    text-align: center;
+    color:white;
+    
+}
+.fa-bars {
+	
+	padding-left:30px;
+	margin-bottom: 5px;
+	font-size:23px;
+	color:grey;
+	
+}
+#img-logo {
+	padding-left:5px;
+	width:90px;
+	margin-bottom: -10px;
+	height:40px;
+	
+}
+.menu {
+	width: 5%;
+	float:left;
+	
+}
+.glogo {
+	width: 10%;
+	float:left;
+	margin-bottom:5px;
+	
+}
+.search {
+	width:60%;
+	float:left;
+	
+}
+.support{
+	width:5%;
+	float:left;
+	
+}
+.settings{
+	width:5%;
+	float:left;
+	
+}
+.apps{
+	width:5%;
+	float:left;
+	
+}
+.account{
+	width:5%;
+	float:left;
+	
+}
+.clear{
+	clear:both;
+}
+.fa-sliders {
+	margin-left:55px;
+	padding-top:5px;
+}
+.border {
+	width: 600px;
+	height: 30px;
+	padding-left: 5px;
+	border-radius:6px;
+	border: 1px solid lightgrey;
+	
+}
+.s-icon {
+	float:left;
+}
+.field{
+	float:left;
+}
+.slider{
+	float:left;
+}
+.clear-icon{
+	clear:both;
+}
+input[type=text] {
+   
+    border:none;
+    outline:none;
+    width:500px;
+    height:20px;   
+}
+.fa-magnifying-glass {
+    padding-top:5px;
+}
+.container-top {
+	margin-top: 20px;
+	border-bottom: 2px solid lightgrey;`
+}
+.input::placeholder{
+	margin-top:70px;
+	font-size: 14px;
+}
+.container-bottom {
+	
+}
+.left-container{
+	width:15%;
+	float:left;
+	
+	margin-left: 25px;
+	margin-top:30px;
+}
+.inbox {
+	width:70%;
+	float:left;
+	
+}
+.last-icons {
+	width:10%;
+	float:left;
+	
+}
+.clear-inbox{
+	clear:both;
+}
+.list {
+	
+	margin-left:20px;
+}
+
+	
+	
