@@ -7,16 +7,15 @@ html, body {
     background-color:white;  
     font-size:.875rem;
     font-family: Arial, Roboto;
+    overflow:hidden;
 }
 * {
 	font-size: 14px;
 }
 p {
     font-size: 14px;
-    color:grey;
-    
+    color:grey;   
 }
-
 .fa-bars {
 	width: 5%;
 	text-align: center;

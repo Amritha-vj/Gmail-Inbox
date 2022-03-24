@@ -1,0 +1,29 @@
+@media screen and (max-width:1344px) {
+    .container-top{
+	width:100%;
+	background-color:#f2f2f2;
+	border-top:3px solid #ff704d;
+    }   
+    .stack-logo{
+        width:10%;  
+    }
+    #img-stack{
+        width: 85%;
+        height:65%;
+        margin-left:20px;
+    }
+    .products{
+        width:4%;
+        padding:10px;
+        margin-top:2px;	
+      
+    }
+    .search{
+       
+        width:30.5%;
+        padding:10px;
+        margin-left:20px;
+        cursor:pointer;	
+    }
+
+}
