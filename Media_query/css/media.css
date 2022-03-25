@@ -1,6 +1,6 @@
 @media screen and (max-width:1024px) {
     .stack-logo{
-        width:7%;  
+        width:12%;  
     }
     #img-stack{
         width: 85%;
@@ -10,8 +10,11 @@
     }
     .products{
         width:4%;
-        margin-top:2px;	
+        margin-top:5px;	
        
+    }
+    .s-icon{
+        margin-right: 35px;
     }
     .search{
         width:47.5%;
@@ -55,17 +58,348 @@
     .item-2 {
         width:65%;
         margin-left: 0px;
-        border: 1px solid red;
+       
     }
     .item-3 {
         width:20%;  
     }
-    .h1 {
+    h1 {
         font-weight:400;
-        font-size: 34px;
+        font-size: 22px;
         color:black;
     }
-    .h3 {
+    h3 {
         font-weight:200;
+    }
+    .row-item-1 {
+        width: 6%;
+    }
+    .fa-circle-info {
+        padding-left:15px;
+    }
+    .left-container{
+        margin-top:15px;
+        width:14%;
+        padding-left:2px;
+    }
+    .team .fa-circle-info {
+        padding-left:55px;
+    }
+    .right {
+        width:65%;
+        font-size:10px;
+    }
+    .stat {
+        font-size:18px;
+        padding-left:10px;
+    }
+    .com {
+        font-size:16px;
+        width:45%;
+    }
+    .view {
+        font-size:12px;
+        margin-top:2px;
+        text-align:right;
+    }
+    .com-border-1 {
+        width:100%;
+        margin-top:15px;
+        padding:8px;
+    }
+    .column-0 {
+        width:6%;
+        font-size:10px;
+    }
+    .column-1 {
+        width:75%;
+        font-size:10px;
+        font-weight:200;
+        padding:5px;
+    }
+    .column-2 {
+        width:10%;
+        font-size:10px;
+        padding:3px;
+        cursor:pointer;
+    }
+    .com-01 {
+        padding-top:9px;
+        
+    }
+    .com-02 {
+        padding-top:12px;
+       
+        
+    }
+    .com-03 {
+        padding-top:11px;
+       
+    }
+    .com-04 {
+        padding-top:10px;
+       
+        
+    }
+    .com-05 {
+        padding-top:8px;
+       
+    }
+    .com-2 {
+        margin-top:8px;	
+    }
+    .com-3 {
+        margin-top:10px;	
+    }
+    .com-4 {
+        margin-top:10px;	
+    }
+    .com-5 {
+        margin-top:11px;	
+    }
+    .com-6 {
+        margin-top:9px;	
+    }
+    .right-row-1 {
+        width: 100%;
+        font-size:18px;
+    }
+    .right-row-2 {
+        width: 100%;
+        font-size:12px;      
+    }
+    .right-row-3 {
+        width:100%;
+        font-size:12px;
+    }
+    .right-row-4 {
+        padding:5px;
+        width:100%;
+        font-size:12px;
+    }
+    .right-list {
+        padding:5px;
+    }
+    .badge {
+        font-size:14px;
+        padding-left:8px;
+        width:45%;	
+    }
+    .box-1 {
+        width:32%;
+        margin-left:5px;
+        padding-top:5px;
+        border-radius:3px;
+        border:1px solid #a6a6a6;
+        
+    }
+    .view-badge{
+        font-size:9px;
+       
+       
+    }
+    .ba-1 {
+        width:30%;
+        font-size:22px;
+    }
+    .ba-2 {
+        width:40%;
+    }
+    .ba-1 .fa-jedi {
+        font-size:35px;
+        color:#e6c300;
+        margin-left: 5px;   
+    }
+    .text-1 {
+        border-radius: 3px;
+        font-size:9px;
+        margin-top:4px;
+        margin-left:7px;
+        padding-top:2px;	
+    }
+    .text-2 {
+        border-radius: 3px;
+        font-size:9px;
+        margin-top:4px;
+        margin-left:7px;
+        padding-top:2px;	
+    }
+    .text-3 {
+        border-radius: 3px;
+        font-size:9px;
+        margin-top:4px;
+        margin-left:7px;
+        padding-top:2px;	
+    }
+    .date-1 {
+        padding-left:30px;
+        font-size:10px;
+        margin-top:3px;
+        padding-top:2px;
+    }
+    .date-2 {
+        padding-left:30px;
+        font-size:10px;
+        margin-top:3px;
+        padding-top:2px;
+    }
+    .date-3{
+        padding-left:30px;
+        font-size:10px;
+        margin-top:3px;
+        padding-top:2px;
+    }
+    .badge {
+        font-size:16px;
+        padding-left:8px;
+        width:45%;	
+    }
+    .view-badge{
+        font-size:10px;
+        text-align:right;
+        margin-top:7px;
+        padding-top: 10px;
+    }
+    
+    .span-left {
+        float:left;
+    }
+    .span-right-1 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 265px;
+    }
+    .span-right-2 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 280px;
+    }
+    .span-right-3 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 255px;
+    }
+    .span-right-4 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 284px;
+    }
+    .span-right-5 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 265px;
+    }.span-right-6 {
+        float: right;
+        padding-top: 10px;
+        padding-left: 253px;
+    }
+    .right-side-1 {
+        padding-left:200px;
+
+    }
+    .right-side-2 {
+        margin :10px;
+        padding-left:200px;
+        text-align:right;
+        width: 45%;
+        
+    }
+    .right-side-3 {
+        margin :10px;
+        margin-left:290px;
+        text-align:right;
+        width: 50%;
+        
+    }
+    .right-side-4 {
+        margin :10px;
+        margin-left:330px;
+        text-align:right;
+        width: 45%;
+        
+    }
+    .right-side-5 {
+        margin :10px;
+        margin-left:310px;
+        text-align:right;
+        width: 45%;
+        
+    }
+    .right-side-6 {
+        margin :10px;
+        margin-left:280px;
+        text-align:right;
+        width: 45%;
+        
+    }
+    .button-1 {
+        border-radius:4px;
+        margin:10px;
+        font-size: 10px;
+    }
+    .size {
+        font-size:12px;
+        font-weight:200;
+        color:black;	
+    }
+    .icon-list{
+        margin-top:6px;
+        font-size:18px;
+    }
+    .question-list{
+        width:30px;
+        height:15px;
+        border-radius: 3px;
+        margin-top:8px;
+        font-size:10px;
+    }
+    .q-list {
+        margin-left:2px;
+        margin-top: 5px;
+        font-size:10px;	
+        padding: 4px;
+        font-weight: 200;
+    }
+    .q-tag {
+        margin-left: 7px;
+        margin-bottom: 10px;	
+    }
+    .date-list{
+        margin-top:10px;
+    }
+    .top {
+        float:left;
+    }
+    .green-button-1 {
+        font-size:8px;
+        margin-top:10px;
+        margin-right: 10px;	
+    }
+    .green-button-2 {
+        font-size:8px;
+        margin-right: 10px;
+        margin-top:10px;
+    }
+    .row-4 {
+	
+        margin-left:10px;
+        margin-top:15px;
+    }
+    .meta-tag {
+        padding:2px;
+        font-size: 10px;
+        width:25px;
+        border-radius: 2px;
+    }
+    .m-tag {
+        float:left;
+        margin-left: 15px;
+        margin-top: 8px;   
+    }
+    .icon-list-1 {
+        float:left;
+        margin-top:5px;
+        font-size:13px;
+        margin-left:5px;
     }
 }
