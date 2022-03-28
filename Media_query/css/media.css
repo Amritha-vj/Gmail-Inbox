@@ -55,11 +55,7 @@
     .item-1 {
         width:14%;
     } 
-    .item-2 {
-        width:65%;
-        margin-left: 0px;
-       
-    }
+    
     .item-3 {
         width:20%;  
     }
@@ -173,9 +169,8 @@
         font-size:12px;
     }
     .right-row-4 {
-        padding:5px;
         width:100%;
-        font-size:12px;
+        font-size:11px;
     }
     .right-list {
         padding:5px;
@@ -186,16 +181,23 @@
         width:45%;	
     }
     .box-1 {
-        width:32%;
+        width:30%;
         margin-left:5px;
         padding-top:5px;
         border-radius:3px;
         border:1px solid #a6a6a6;
         
     }
+    .badge-list {
+        display: flex;
+        color:black;
+    }
     .view-badge{
         font-size:9px;
-       
+    }
+    .item-3 {
+        width:1%;
+        float:left;
        
     }
     .ba-1 {
@@ -231,12 +233,13 @@
         margin-left:7px;
         padding-top:2px;	
     }
-    .date-1 {
-        padding-left:30px;
-        font-size:10px;
-        margin-top:3px;
+    /* .date-1 {
+        padding-left:20px;
+        font-size:7px;
+        margin-top:6px;
         padding-top:2px;
-    }
+        padding-right: 2px;
+    } */
     .date-2 {
         padding-left:30px;
         font-size:10px;
@@ -267,31 +270,31 @@
     .span-right-1 {
         float: right;
         padding-top: 10px;
-        padding-left: 265px;
+        padding-left: 255px;
     }
     .span-right-2 {
         float: right;
         padding-top: 10px;
-        padding-left: 280px;
+        padding-left: 272px;
     }
     .span-right-3 {
         float: right;
         padding-top: 10px;
-        padding-left: 255px;
+        padding-left: 245px;
     }
     .span-right-4 {
         float: right;
         padding-top: 10px;
-        padding-left: 284px;
+        padding-left: 275px;
     }
     .span-right-5 {
         float: right;
         padding-top: 10px;
-        padding-left: 265px;
+        padding-left: 253px;
     }.span-right-6 {
         float: right;
         padding-top: 10px;
-        padding-left: 253px;
+        padding-left: 240px;
     }
     .right-side-1 {
         padding-left:200px;
@@ -401,5 +404,56 @@
         margin-top:5px;
         font-size:13px;
         margin-left:5px;
+    }
+    .footer-logo i {
+        font-size:20px; 
+        margin-right:20px; 
+        margin-left:40px; 
+        margin-top:4px; 
+        color:#c77d2e; 
+    } 
+    .title { 
+        color:#cfcecc; 
+    } 
+    .column_1 { 
+        margin-right:40px; 
+    } 
+    .column_1 ul {
+         list-style-type: none; 
+    } 
+    .column_1 ul li {
+        font-size:8px; 
+        padding-top:7px; 
+    } 
+    .link ul {
+         list-style-type:none; 
+    } 
+    .column_2 li { 
+        display:inline; 
+        font-size:8px; 
+        padding:5px; color:#787773; 
+    } 
+    .description {
+        font-size:8px;
+        margin-top:54%; 
+        margin-left:35px; 
+        color:#787773; 
+    }
+    .s-left{
+        display: flex;
+    }
+    .s-right{
+        display: flex;
+        padding: 5px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px)  {
+    .box-1 {
+        width:35%;
+        margin-left:5px;
+        padding-top:5px;
+        border-radius:3px;
+        border:1px solid #a6a6a6;
+        background-color: pink;
     }
 }
