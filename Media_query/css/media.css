@@ -130,6 +130,7 @@
     .rows-1 {
         width: 100%;
         padding:10px;
+        margin: 20px;
     }
     .item-1 {
         width:14%;
@@ -706,7 +707,97 @@
         /* float:left; */
         text-align:center;
     }
-
-
-
 }
+@media screen and (min-width:425px) and (max-width:768px)  {
+    .container-top{
+        width:100%;
+        /* background-color:#f2f2f2; */
+        border-top:3px solid #ff704d;
+    }
+
+    .left-container {
+        margin-top: 15px;
+        width: 13%;
+        padding-left: 2px;
+        display: none;
+    }
+    .border {
+        width: 600px;
+        height: 40px;
+        padding-left: 5px;
+        border-radius:6px;
+        margin-top: 0px;
+        display: none;
+    }
+    .row-item-2 {
+        float: left;
+        width: 16%;
+        padding: 8px;
+        text-align: left;
+        margin-left: 30px;
+    }
+    footer {
+        width: 100%;
+        display: inline-block;
+        
+    }
+    .footer-logo i {
+        font-size: 18px;
+        margin-right: 20px;
+        margin-left: 40px;
+        margin-top: 4px;
+        color: #c77d2e;
+        display: none;
+    }
+ } 
+    @media screen  and (max-width:425px)  {
+        .footer-logo i {
+            font-size: 18px;
+            margin-right: 20px;
+            margin-left: 40px;
+            margin-top: 4px;
+            color: #c77d2e;
+            display: none;
+        }
+        .container-top{
+            width:100%;
+            background-color:#f2f2f2;
+            border-top:3px solid #ff704d;
+
+        }
+        .left {
+            width: 100%;
+            /* float: left; */
+            padding: 2px;
+        }
+        .left-row-2 {
+            
+            width: 92%;
+            margin-top: 30px;
+            display: none;
+        }
+        .item-1 {
+            width: 40%;
+        }   
+        .years {
+            float: left;
+            width: 57%;
+        }
+        .item-2 {
+            width: 189%;
+            font-size: 10px;
+            margin-left: 1px;
+            /* float: left; */
+        }
+        .img-logo {
+            background-image: url(../asset/logos.png);
+            background-repeat: no-repeat, no-repeat;
+            background-position: 19% 45%, 90% 45%;
+        }
+        /* @media screen and (max-width: 424px)
+        .logo {
+            flex: 5%;
+            margin-left: 0;
+        } */
+
+    }

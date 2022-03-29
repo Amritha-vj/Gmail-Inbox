@@ -1286,6 +1286,7 @@ footer {
 	display:flex;
 	color:#e6e6e6; 
 	font-weight:100;
+	font-size: 10px;
 	background-color: rgb(38, 41, 44); 
 }
  .footer-logo i {
