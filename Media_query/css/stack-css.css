@@ -287,22 +287,6 @@ h2 {
 	width:40%;
 	border:1px solid green;
 }
-.row-4 {
-	width: 100%;
-	
-}
-.row-5 {
-	width: 100%;
-}
-.row-6 {
-	width: 100%;
-}
-.row-7 {
-	width: 100%;
-}
-.row-8 {
-	width: 100%;
-}
 
 .item-1 {
 	width:14%;
@@ -950,9 +934,7 @@ ul {
 .size {
 	font-size:18px;
 	font-weight:200;
-	color:black;
-	
-	
+	color:black;	
 }
 .b-class {
 	border: 1px solid red;
